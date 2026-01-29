@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CityPulse",
+  "description": "A hyperlocal, real-time map and feed for city residents to track traffic, events, and issues instantly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
